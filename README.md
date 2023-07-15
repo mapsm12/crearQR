@@ -21,4 +21,7 @@ El programa utiliza las siguientes tecnologías y bibliotecas:
 4. El código QR se mostrará en la ventana de interfaz gráfica.
 5. Si deseas borrar la imagen del código QR, haz clic en el botón "Borrar Imagen".
 
+## En desarrollo
+1. Software para ejecucion en windows
+
 ¡Disfruta generando tus propios códigos QR de forma sencilla con esta aplicación!
